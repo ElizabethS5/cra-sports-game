@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cra-sports-game/static/css/main.7d5ef757.chunk.css",
+    "main.js": "/cra-sports-game/static/js/main.cfc95fb3.chunk.js",
+    "main.js.map": "/cra-sports-game/static/js/main.cfc95fb3.chunk.js.map",
+    "runtime-main.js": "/cra-sports-game/static/js/runtime-main.edc2cdfd.js",
+    "runtime-main.js.map": "/cra-sports-game/static/js/runtime-main.edc2cdfd.js.map",
+    "static/js/2.ceab36eb.chunk.js": "/cra-sports-game/static/js/2.ceab36eb.chunk.js",
+    "static/js/2.ceab36eb.chunk.js.map": "/cra-sports-game/static/js/2.ceab36eb.chunk.js.map",
+    "index.html": "/cra-sports-game/index.html",
+    "precache-manifest.3699b8cbb977f49e98ce42c6537f40f0.js": "/cra-sports-game/precache-manifest.3699b8cbb977f49e98ce42c6537f40f0.js",
+    "service-worker.js": "/cra-sports-game/service-worker.js",
+    "static/css/main.7d5ef757.chunk.css.map": "/cra-sports-game/static/css/main.7d5ef757.chunk.css.map",
+    "static/js/2.ceab36eb.chunk.js.LICENSE.txt": "/cra-sports-game/static/js/2.ceab36eb.chunk.js.LICENSE.txt",
+    "static/media/bunny.png": "/cra-sports-game/static/media/bunny.f4afced4.png",
+    "static/media/hound.png": "/cra-sports-game/static/media/hound.15752ad8.png",
+    "static/media/raccoon.png": "/cra-sports-game/static/media/raccoon.b172ee0d.png",
+    "static/media/smb_1-up.wav": "/cra-sports-game/static/media/smb_1-up.872073a1.wav",
+    "static/media/smb_fireball.wav": "/cra-sports-game/static/media/smb_fireball.f0fb24ef.wav",
+    "static/media/squirrel.png": "/cra-sports-game/static/media/squirrel.87db0b85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc2cdfd.js",
+    "static/js/2.ceab36eb.chunk.js",
+    "static/css/main.7d5ef757.chunk.css",
+    "static/js/main.cfc95fb3.chunk.js"
+  ]
+}
